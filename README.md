@@ -1,3 +1,3 @@
 ## CSS droplet
 
-All credits go to Pratham (https://twitter.com/Prathkum)
+All credit goes to Pratham (https://twitter.com/Prathkum)
